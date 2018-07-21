@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailySmarts</string>
+    <string name="refresh">refresh</string>
+    <string name="settings">settings</string>
+</resources>
